@@ -1,4 +1,4 @@
-vi History
+vi Ebat2
 
 <<<<<<< src/history_of_vi.txt	
 The vi editor was developed starting around 1976 by Bill Joy, who was then a graduate student at the University of California at Berkeley.
