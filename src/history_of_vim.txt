@@ -1,3 +1,4 @@
+Historys vim
 A long time ago I got myself an Amiga computer. Since I was used to editing with Vi, I looked around for a program like Vi for the Amiga. I did find a few so-called 'clones', but none of them was good enough; so I took the best one, and started improving it. At first the main goal was to be able to do all that Vi could do. Gradually I added some additional features, like multi-level undo.
 When it was working reasonably well, I released a version of Vim (then called "Vi IMitation") on a public domain disk set for the Amiga, made by Fred Fish. Then others started sending me patches. A few people took the effort to port Vim to other platforms, like MS-DOS and Unix. I added more features and made it work better. By that time it was justified to rename it to "Vi IMproved". Over time the code has been redesigned and extended so much that almost nothing of the original 'clone' remains.
 When I started working on Vim it was just for my own use. After some time I got the impression it was useful for others, and sent it out into the world. Since then I'm working more and more on making the program work well for a large audience. It's fun to create something useful. Also, there is a nice group of co-authors and power users, which is very inspiring.
@@ -9,5 +10,12 @@ Here is an overview of Vim's history:
   1996 May 29 - Vim 4.0:  Graphical User Interface (largely by Robert Webb).
   1998 Feb 19 - Vim 5.0:  Syntax coloring/highlighting.
   2001 Sep 26 - Vim 6.0:  folding, plugins, vertical split
-20
+  2006 May 7  - Vim 7.0 – Added tab support, spell checking, and enhanced scripting.
+  2013 Aug 10 - Vim 7.4 – Performance optimizations and new APIs.
+  2016 Sep 12 - Vim 8.0 – Asynchronous tasks, channel support, and package management.
+  2018 May 17 - Vim 8.1 – Bug fixes and terminal mode improvements.
+  2020 Dec 12 - Vim 8.2 – Popup windows and scripting enhancements.
+  2022 Jun 28 - Vim 9.0 – Introduced Vim9 Script for faster execution and performance upgrades.
+
+
 
